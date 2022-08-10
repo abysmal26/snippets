@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Gluon';
+    src: url('Gluon-Bold.eot');
+    src: local('Gluon Bold'), local('Gluon-Bold'),
+        url('Gluon-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Gluon-Bold.woff2') format('woff2'),
+        url('Gluon-Bold.woff') format('woff'),
+        url('Gluon-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gluon';
+    src: url('Gluon-Light.eot');
+    src: local('Gluon Light'), local('Gluon-Light'),
+        url('Gluon-Light.eot?#iefix') format('embedded-opentype'),
+        url('Gluon-Light.woff2') format('woff2'),
+        url('Gluon-Light.woff') format('woff'),
+        url('Gluon-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gluon';
+    src: url('Gluon-Regular.eot');
+    src: local('Gluon'), local('Gluon-Regular'),
+        url('Gluon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Gluon-Regular.woff2') format('woff2'),
+        url('Gluon-Regular.woff') format('woff'),
+        url('Gluon-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
